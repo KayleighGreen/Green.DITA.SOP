@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c-intro">
+ <title>Introduction</title>
+ <conbody>
+  <p>No, your eyes are not deceiving you! There really is an Ice Cream Maker in Shanks Hall. Just when you thought the English Department at Virginia Tech couldn’t get much cooler, they added something that can rival even the 3D Printing Lab in Newman Library.</p> 
+  <p>Specifically, this is a Cuisinart ICE-60W (see Figure 1). Of course, between all of the classes, papers, and research, you have probably never learned how to work an Ice Cream Maker. But do not worry, this Standard Operating Procedure will tell you all you need to know, in a quick-and-easy manner, so you can make your ice cream/sorbet/gelato and be on your way to class! </p>
+  <p>All ingredients you will need can be located in the Shanks Hall breakroom, where there is a
+      fully stocked refrigerator and fully-functioning stove. Follow all of the directions in this
+      manual, and you will be enjoying delicious recipes in no time.<fig id="maker">
+        <title>Figure 1: The Cuisinart ICE-60W</title>
+        <image placement="break" href="_images/maker.jpg" width="200" height="300" align="center"/>
+      </fig></p>
+ </conbody>
+</concept>

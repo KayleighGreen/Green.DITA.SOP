@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-basics">
+    <title>The Basics</title>
+    <shortdesc>What you will need before making icecream.</shortdesc>
+<taskbody>
+            <context>There are set materials needed for proper usage of the machine, if any of these materials are missing or broken, contact Cuisinart.</context>
+            <steps-unordered>
+                <step>
+                <cmd>Cap with Measurement Cup (Figure 2)</cmd>
+                <info>
+                    <fig id="cap">
+                        <title>Figure 2</title>
+                        <image placement="break" href="_images/cap.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                <cmd>Easy-lock Lid with Ingredient Spout (Figure 3)</cmd>
+                <info>
+                    <fig id="lid">
+                        <title>Figure 2</title>
+                        <image placement="break" href="_images/lid.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                <cmd>Mixing Arm (Figure 4)</cmd>
+                <info>
+                    <fig id="arm">
+                        <title>Figure 4</title>
+                        <image placement="break" href="_images/arm.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                <cmd>Freezer Bowl (Figure 5)</cmd>
+                <info>
+                    <fig id="bowl">
+                        <title>Figure 5</title>
+                        <image placement="break" href="_images/bowl.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                <cmd>Control Panel (Figure 6) </cmd>
+                <info>
+                    <fig id="panel">
+                        <title>Figure 6</title>
+                        <image placement="break" href="_images/control.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                <cmd>Base (Figure 7)</cmd>
+                <info>
+                    <fig id="base">
+                        <title>Figure 7</title>
+                        <image placement="break" href="_images/base.jpg" align="left"/>
+                    </fig>
+                </info>
+            </step>
+                <step>
+                    <cmd>Rubber Feet</cmd>
+                </step>
+                <step>
+                    <cmd>Cord Storage</cmd>
+                </step>        
+            </steps-unordered>
+</taskbody> 
+</task>

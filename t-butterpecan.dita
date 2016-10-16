@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-butterpecan">
+    <title>How to Make Butter Pecan Ice Cream</title>
+    <shortdesc>Need a pick-me-up before grading/writing a paper? Try this Butter Pecan recipe!</shortdesc>
+    <taskbody>
+        <context>
+            <p>What you will need:</p>
+            <ul>
+                <li>4	Tablespoons of unsalted butter</li>
+                <li>1	Cup of pecan halves</li>
+                <li>1	Teaspoon of kosher salt, and an additional pinch</li>
+                <li>1 ¼ 	Cups of whole milk</li>
+                <li>1	Cups of granulated sugar</li>
+                <li>2 ½ 	Cups of heavy cream</li>
+                <li>2	Teaspoons pure vanilla extract</li>
+            </ul>
+            <note conref="t-vanilla.dita#t-vanilla/use"/>
+        </context>
+        <steps>
+            <stepsection>
+                <p><b>This recipe will make about 6 ½ cups (13 ½ cup servings).</b></p>
+            </stepsection>
+            <step>
+                <cmd><b>Melt</b>butter in a medium skillet. <b>Add</b>pecans and 1 teaspoon of salt.</cmd>
+            </step>
+            <step>
+                <cmd><b>Cook</b>over a medium-low heat until pecans are toasted and golden. <b>Stir</b>frequently for about 6 to 8 minutes. </cmd>
+            </step>
+            <step>
+                <cmd><b>Remove</b>skillet from the heat. Strain. Allow pecans to chill.</cmd>
+            </step>
+            <step>
+                <cmd><b>Combine</b> milk, sugar, and a pinch of salt in a medium bowl.  Using a hand mixture (on low) or whisk, <b>beat</b>until the sugar dissolves.</cmd>
+            </step>
+            <step>
+                <cmd><b>Whisk</b>mixture again before <b>pouring</b>in machine.</cmd>
+            </step>
+        </steps> 
+    </taskbody>
+</task>

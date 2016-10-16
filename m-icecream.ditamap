@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>CUISINART ICE-60W Series: Instruction Booklet for Shanks Hall</title>
+ <topicref href="c-intro.dita"></topicref>
+ <topicref href="t-basics.dita"></topicref>
+ <topicref href="t-usemachine.dita"></topicref>
+ <topicref href="t-vanilla.dita"></topicref>
+ <topicref href="t-butterpecan.dita"></topicref>
+ <topicref href="t-sorbet.dita"></topicref>
+ <topicref href="t-troubleshooting.dita"></topicref>
+ <topicref href="c-conclusion.dita"></topicref>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-intro" path="c-intro.html"/>
+   <appContext helpID="t-basics" path="t-basics.html"/>
+   <appContext helpID="usemachine" path="t-usemachine.html"/>
+   <appContext helpID="t-vanilla" path="t-vanilla.html"/>
+   <appContext helpID="t-butterpecan" path="t-butterpecan.html"/>
+   <appContext helpID="t-sorbet" path="t-sorbet.html"/>
+   <appContext helpID="t-troubleshooting" path="t-troubleshooting.html"/>
+   <appContext helpID="conclusion" path="c-conclusion.html"/>
+</map>

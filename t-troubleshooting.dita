@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-troubleshooting">
+    <title>Troubleshooting</title>
+    <shortdesc>Having problems? See if we can help!</shortdesc>
+    <taskbody>
+        <context>
+            <p>Here are the answers to some common issues you may encounter while using this
+                product.</p>
+            <ul id="questions">
+                <li><b>How do I reset the machine if I selected the wrong function?</b><ol
+                        id="question1">
+                        <li>Press the Start/Stop button twice.</li>
+                    </ol></li>
+                <li><b>The machine has stopped working.</b><ul id="question2">
+                        <li>The load might be too heavy. Press the Start/Stop button and give the
+                            machine time to cool.</li>
+                        <li>The recipe might also be finished. If so, remove from bowl.</li>
+                    </ul></li>
+            </ul>
+            </context>
+    </taskbody>
+</task>

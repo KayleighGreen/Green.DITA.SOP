@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "c-conclusion.html@@@Conclusion@@@After following the steps found in this booklet, you are well on your way to becoming an ice cream master! Using this guide will allow you to consistently create high quality ice cream that you and...";
+fil["1"]= "c-intro.html@@@Introduction@@@No, your eyes are not deceiving you! There really is an Ice Cream Maker in Shanks Hall. Just when you thought the English Department at Virginia Tech couldn’t get much cooler, they added something...";
+fil["2"]= "t-basics.html@@@The Basics@@@What you will need before making icecream...";
+fil["3"]= "t-butterpecan.html@@@How to Make Butter Pecan Ice Cream@@@Need a pick-me-up before grading/writing a paper? Try this Butter Pecan recipe!...";
+fil["4"]= "t-sorbet.html@@@How to Make Dark Chocolate Sorbet@@@Are you allergic to milk? Don’t like ice cream? Try out this perfect receipe to indulge your sweet tooth...";
+fil["5"]= "t-troubleshooting.html@@@Troubleshooting@@@Having problems? See if we can help!...";
+fil["6"]= "t-usemachine.html@@@How to Use Machine@@@After the receipes have been completed to your satisfaction, follow these directions to continue making your ice cream. Press button labeled with Ice Cream or Sorbet (Figures 8 and 9), depending on...";
+fil["7"]= "t-vanilla.html@@@How to Make Rich Vanilla Bean Ice Cream@@@Like the classics? This recipe is sweet and simple...";

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="usemachine">
+    <title>How to Use Machine</title>
+    <taskbody>
+        <context>
+            <p>After the receipes have been completed to your satisfaction, follow these directions to continue making your ice cream.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>Press</b>button labeled with Ice Cream or Sorbet (Figures 8 and 9),
+                    depending on desired result. Then <b>press</b> Start/Stop (Figure 10) to start
+                    mixing.</cmd>
+                <info>
+                    <fig id="ice-cream">
+                        <title>Figure 8</title>
+                        <image placement="break" href="_images/icecream.jpg" width="500"
+                            align="left"/>
+                    </fig>
+                    <fig id="sorbet">
+                        <title>Figure 9</title>
+                        <image placement="break" href="_images/sorbet.jpg" width="500" align="left"/>
+                    </fig>
+                    <fig id="start-stop">
+                        <title>Figure 10</title>
+                        <image placement="break" href="_images/start-stop.jpg" width="500"
+                            align="left"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd><b>Pour</b>mixture through spout and <b>cover</b> with cap.</cmd>
+            </step>
+            <step>
+                <cmd><b>Mix</b>until the mixture has thickened.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Will have a soft, creamy texture.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If a denser texture is wanted, put mixture in an airtight container and place in freezer for a couple hours. Remove at least 15 minutes before serving.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Press</b>Start/Stop to stop machine (Figure 10).</cmd>
+            </step>
+            <step>
+                <cmd><b>Use</b>spatula to remove mixture.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
